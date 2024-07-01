@@ -1,0 +1,9 @@
+name: SkyInvasoes
+version: '23.09.01'
+main: br.com.skyplugins.skyinvasoes.SkyPlugins
+depend: [ Factions, MassiveCore ]
+authors: [ uauLight ]
+description: Permita os jogadores verem as facções sendo invadidas.
+website: https://skyplugins.com.br/
+commands:
+  invasoes:
